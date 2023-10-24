@@ -1,0 +1,42 @@
+body{
+    background-color: gray;
+    margin: 5px;
+font-size: 40px;
+color: black;
+}
+h1{
+font-size: 50px;
+color: red;
+margin-left: 550PX;
+}
+h2{
+    font-size: 35px;
+    color: blueviolet;
+    margin-left: 400px;
+}
+.exemplo{
+    background-color: greenyellow;
+    height: 50px;
+    width: 340px;
+    border: 5px solid black;
+    margin-left: 530px;
+}
+ol{
+    background-color: antiquewhite;
+    font-size: 40px;
+    color: red;
+    border: 06px solid black;
+    height: 345px;
+    width: 555px;
+    margin-left: 450px;
+    ;
+}
+p{
+    background-color: violet;
+    font-size: 40px;
+    color: yellow;
+    height: 345px;
+    width: 995px;
+    border: 10px solid black;
+    margin-left:220px;
+}
